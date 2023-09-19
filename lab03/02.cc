@@ -33,7 +33,6 @@ int main() {
   default:
     break;
   }
-
   cout << "Полное название должности: ";
   switch (full_name) {
   case laborer:
